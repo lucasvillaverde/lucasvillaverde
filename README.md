@@ -8,10 +8,10 @@ Let's build solutions that not only function seamlessly but also make a real dif
 
 ## Skills 🚀
 - **Languages:** Kotlin, Java
-- **Frameworks:** Android SDK, Jetpack (LiveData, ViewModel, Room), Dagger Hilt,  Retrofit
-- **Architecture Patterns:** MVVM, MVP, Clean Architecture
+- **Frameworks:** Android SDK, Jetpack (LiveData, ViewModel, Room), Jetpack Compose, Dagger Hilt,  Koin, Retrofit, Ktor...
+- **Architecture Patterns:** (MVVM, MVP, MVC) + Clean architecture
 - **Testing:** JUnit, Espresso, Mockito
-- **Tools:** Android Studio, Git, Gradle
+- **Tools:** Android Studio, Fleet, Git, Gradle
 
 ## Connect with Me 🌐
 - [LinkedIn](https://www.linkedin.com/in/lucasvillaverde/)
